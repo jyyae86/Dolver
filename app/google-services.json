@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773547525552",
+    "firebase_url": "https://dolver-aeb6e.firebaseio.com",
+    "project_id": "dolver-aeb6e",
+    "storage_bucket": "dolver-aeb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773547525552:android:23edf238294b8422",
+        "android_client_info": {
+          "package_name": "joji.dolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773547525552-k0rgu22141qmt6jb97chhd7ki0q9nqr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxmf36SxI5LS-KHYsV5kH1CSYd_YJltNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
